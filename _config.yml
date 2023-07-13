@@ -23,9 +23,9 @@ email: simonshevkunov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Обычный ученик, который тащится по проге.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://simonshevkunov.githum.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://szewk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  simonshevkunov
+github_username:  szewk
 # Build settings
 theme: minima
 plugins:
