@@ -5,6 +5,5 @@
 layout: home
 ---
 
-Алгоритмы – [https://simonshevkunov.github.io/algolympiad.github.io/](https://simonshevkunov.github.io/algolympiad.github.io/)
+Сайт про алгоритмы – [szewk.github.io/algo/](https://szewk.github.io/algo/)
 
-C++ – [https://cpptutorweb.github.io/](https://cpptutorweb.github.io/)
