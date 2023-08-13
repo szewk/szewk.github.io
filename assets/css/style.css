@@ -278,5 +278,5 @@ img.center {
 .icon-sun:before { content: '\e801'; }
 .icon-anchor:before { content: '\e800'; }
 .icon-anchor {
-	font-size: 65%;
+	font-size: 100%;
 }
