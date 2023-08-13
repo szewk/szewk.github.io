@@ -17,12 +17,18 @@
 
 <body>
 
+
+
   <header id="header">
-    <h1> {{ Дом. страница szymon_szewk }}</a></h1>
-    <p>{{ И ничего более. }}</p>
+    <h1> {{ site.name }}</a></h1>
+    <p>{{ site.description }}</p>
   </header>
 
+
+
   <div id="page">
+
+
 
     <div id="sidebar">
       <nav>
@@ -30,16 +36,21 @@
           <li><a href="/">Дом</a></li>
           <li><a href="/archives">Архив</a></li>
           <li><a href="/about">Обо мне</a></li>
-          <li><a href="https://github.com/szewk">Гитхаб</a></li>
+          <li><a href="http://twitter.com/redwall_hp">ГитХаб</a></li>
         </ul>
       </nav>
     </div>
+
+
 
     <div id="content">
       {{ content }}
     </div>
 
+
+
   </div>
+
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
   <script src="/assets/js/jquery.mobilemenu.min.js"></script>
@@ -49,6 +60,8 @@
       $('#sidebar nav ul').mobileMenu({'topOptionText': 'Menu', 'prependTo': '#sidebar nav'});
     });
   </script>
+
+
 
 </body>
 </html>
